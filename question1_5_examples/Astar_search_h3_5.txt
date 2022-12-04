@@ -1,0 +1,3521 @@
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+GG.HH.
+
+f(n):6 g(n):1 h(n):5 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+.GG.HH
+
+f(n):6 g(n):1 h(n):5 F: fuel:0 G: fuel:6 H: fuel:99 right:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EE..L.
+..KFF.
+GGKHH.
+
+f(n):6 g(n):1 h(n):5 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+GGHH..
+
+f(n):6 g(n):1 h(n):5 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+GG..HH
+
+f(n):6 g(n):1 h(n):5 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EEK.L.
+..KFF.
+..GGHH
+
+f(n):6 g(n):1 h(n):5 F: fuel:0 G: fuel:5 right:1 H: fuel:99 right:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+.EE.L.
+..KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+..EEL.
+..KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+EE..L.
+..KFF.
+GGK.HH
+
+f(n):8 g(n):3 h(n):5 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.JBBCC
+IJDDL.
+IJAAL.
+IEE.L.
+..KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 I: fuel:99 Down:1 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.JBBCC
+.JDDL.
+IJAAL.
+IEE.L.
+I.KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 I: fuel:98 Down:2 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+.EE.L.
+..KFF.
+GGK.HH
+
+f(n):8 g(n):3 h(n):5 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.JBBCC
+IJDDL.
+IJAAL.
+I.EEL.
+..KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 I: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.JBBCC
+.JDDL.
+IJAAL.
+I.EEL.
+I.KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 I: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+I.BBCC
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+I.BBCC
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):8 g(n):3 h(n):5 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IJBBCC
+IJDDL.
+IJAAL.
+..EEL.
+..KFF.
+GGK.HH
+
+f(n):8 g(n):3 h(n):5 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.JBBCC
+IJDDL.
+IJAAL.
+IEE.L.
+..KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.JBBCC
+.JDDL.
+IJAAL.
+IEE.L.
+I.KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 E: fuel:99 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+..BBCC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.JBBCC
+IJDDL.
+IJAAL.
+I.EEL.
+..KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+..BBCC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.JBBCC
+.JDDL.
+IJAAL.
+I.EEL.
+I.KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBB.CC
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+I.BBCC
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBB.CC
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+I.BBCC
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+I.BBCC
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+..BBCC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBBCC.
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IBB.CC
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBBCC.
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IBB.CC
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IBB.CC
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+I.BBCC
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):10 g(n):5 h(n):5 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+..BBCC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BB.CC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB..CC
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+..BBCC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+..BBCC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBBCC.
+IJDDL.
+IJAAL.
+.JEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBBCC.
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+IBBCC.
+I.DDL.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBB.CC
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJEE..
+..KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+IJDDL.
+IJAAL.
+IJEEL.
+..KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BBCC.
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB.CC.
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCC..
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJEE..
+.JKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+I.DDL.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB..CC
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJEE..
+I.KFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+.JDDL.
+IJAAL.
+IJEEL.
+I.KFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BBCC.
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+.BBCC.
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BB.CC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB.CC.
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BB.CC.
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCC..
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJEE..
+IJKFF.
+GGKHH.
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+..DDL.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB..CC
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB..CC
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+IBBCC.
+IDD.L.
+IJAAL.
+.JEEL.
+.JKFF.
+GGK.HH
+
+f(n):12 g(n):7 h(n):5 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJ.EE.
+..KFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJ..EE
+..KFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJEE..
+..KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJEE..
+.JKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+IDD.L.
+IJAAL.
+IJEEL.
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJ.EE.
+.JKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJ..EE
+.JKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJEE..
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJ.EE.
+I.KFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJ..EE
+I.KFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJEE..
+I.KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+.BBCC.
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BB.CC.
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJEE..
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+.DD.L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJEE..
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCC..
+DD..L.
+IJAAL.
+IJEEL.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJ..EE
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJEE..
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJ.EE.
+..KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJ..EE
+..KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJ.EE.
+.JKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJ..EE
+.JKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJEE..
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJ.EE.
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJ..EE
+.JKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJ.EE.
+I.KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJ..EE
+I.KFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJ..EE
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJEE..
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJ..EE
+IJKFF.
+GGKHH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJEE..
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:98 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+GG.HH.
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJ..EE
+IJKFF.
+GGK.HH
+
+f(n):14 g(n):9 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJ.EE.
+.JKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJ..EE
+.JKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJ..EE
+IJKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJ.EE.
+IJKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+GG.HH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJ..EE
+IJKFF.
+GGK.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:99 Down:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJKEE.
+I.KFF.
+IGGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJKEE.
+..KFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJK.EE
+I.KFF.
+IGGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IJDDL.
+IJAAL.
+IJK.EE
+..KFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJKEE.
+IJKFF.
+IGGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJKEE.
+.JKFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJK.EE
+IJKFF.
+IGGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IJAAL.
+IJK.EE
+.JKFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJKEE.
+I.KFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+IJAAL.
+IJK.EE
+I.KFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+.GGHH.
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+GGHH..
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 left:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+GG..HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:5 left:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJKEE.
+IJKFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+.GG.HH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IJAAL.
+IJK.EE
+IJKFF.
+..GGHH
+
+f(n):16 g(n):11 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJKEE.
+I.KFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJKEE.
+I.KFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+I.AAL.
+IJKEE.
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJK.EE
+I.KFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.JDDL.
+.JAAL.
+IJK.EE
+I.KFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+I.AAL.
+IJK.EE
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJKEE.
+IJKFF.
+IGGHH.
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJKEE.
+.JKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJK.EE
+IJKFF.
+IGGHH.
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IJAAL.
+IJK.EE
+.JKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJKEE.
+IJKFF.
+IGGHH.
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJKEE.
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJKEE.
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJK.EE
+IJKFF.
+IGGHH.
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJK.EE
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.JAAL.
+IJK.EE
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+I.AAL.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+I.AAL.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJKEE.
+IJKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IJAAL.
+IJK.EE
+IJKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJKEE.
+IJKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+.GG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IJAAL.
+IJK.EE
+IJKFF.
+..GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+..AAL.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+I.AAL.
+IJKEE.
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IAA.L.
+IJKEE.
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+..AAL.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+I.AAL.
+IJK.EE
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+I.DDL.
+IAA.L.
+IJK.EE
+.JKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJKEE.
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJKEE.
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJK.EE
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.JAAL.
+IJK.EE
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJKEE.
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJKEE.
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJK.EE
+IJKFF.
+IGG.HH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:4 left:1 right:1 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.JAAL.
+IJK.EE
+IJKFF.
+I.GGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+I.AAL.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+I.AAL.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IAA.L.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+I.AAL.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+I.AAL.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+IAA.L.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):18 g(n):13 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+..AAL.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+..AAL.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.AA.L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+AA..L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IAA.L.
+IJKEE.
+.JKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+..AAL.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+..AAL.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+.AA.L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+AA..L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+IDD.L.
+IAA.L.
+IJK.EE
+.JKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:99 Down:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IAA.L.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IAA.L.
+IJKEE.
+IJKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+IAA.L.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+IAA.L.
+IJK.EE
+IJKFF.
+.JGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:98 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.AA.L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+AA..L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.AA.L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+AA..L.
+IJKEE.
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+AAK.L.
+IJKEE.
+IJ.FF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+.AA.L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+AA..L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+.AA.L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:99 left:1 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+AA..L.
+IJK.EE
+IJKFF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:98 Down:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+..DDL.
+AAK.L.
+IJK.EE
+IJ.FF.
+IJGGHH
+
+f(n):20 g(n):15 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+AAK.L.
+IJKEE.
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+AAK.L.
+IJKEE.
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DDK.L.
+AAK.L.
+IJ.EE.
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:97 right:2 right:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+.DD.L.
+AAK.L.
+IJK.EE
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 left:1 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DD..L.
+AAK.L.
+IJK.EE
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:97 Down:1 UP:1 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DDK.L.
+AAK.L.
+IJ..EE
+IJ.FF.
+IJGGHH
+
+f(n):22 g(n):17 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:2 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCCL.
+DDK.L.
+AAK.L.
+IJEE..
+IJ.FF.
+IJGGHH
+
+f(n):27 g(n):17 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:99 UP:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBCC..
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):29 g(n):19 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BB.CC.
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):29 g(n):19 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BB..CC
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):29 g(n):19 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:2 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+.BBCC.
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):31 g(n):21 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:97 left:2 right:1 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+AA..L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):31 g(n):21 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+.BB.CC
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):31 g(n):21 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:97 left:2 right:1 C: fuel:96 left:2 right:2 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+..BBCC
+DDK.L.
+AAK.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):31 g(n):21 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:96 left:2 right:2 C: fuel:96 left:2 right:2 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:96 Down:1 UP:1 UP:2 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+AA..L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):31 g(n):21 h(n):10 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:2 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:98 left:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+.AA.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):26 g(n):21 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:97 left:2 right:1 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+..AAL.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):26 g(n):21 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+IAA.L.
+IJEEL.
+IJ.FF.
+.JGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:97 left:2 right:1 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+.AA.L.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:97 left:2 right:1 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+I.AAL.
+IJEEL.
+IJ.FF.
+.JGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+I.GGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+..AAL.
+IJEEL.
+IJ.FF.
+IJGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+IAA.L.
+IJEEL.
+IJ.FF.
+.JGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:97 left:2 right:1 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+..GGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+I.AAL.
+IJEEL.
+IJ.FF.
+.JGGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:97 Down:1 Down:2 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+I.GGHH
+
+f(n):28 g(n):23 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+IGG.HH
+
+f(n):28 g(n):23 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+..GGHH
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:3 left:1 right:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+.GG.HH
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GG..HH
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+IGG.HH
+
+f(n):30 g(n):25 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+IGGHH.
+
+f(n):30 g(n):25 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:98 right:1 left:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+.GG.HH
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:99 right:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GG..HH
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:99 right:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+.GGHH.
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:98 right:1 left:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GG.HH.
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:98 right:1 left:1 
+
+
+BBKCC.
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GGHH..
+
+f(n):30 g(n):25 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:97 left:2 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:97 right:1 left:2 
+
+
+BBK.CC
+DDK.L.
+.JAAL.
+IJEEL.
+IJ.FF.
+IGGHH.
+
+f(n):30 g(n):25 h(n):5 I: fuel:97 Down:1 Down:2 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:98 right:1 left:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+.GGHH.
+
+f(n):32 g(n):27 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:2 left:1 right:2 left:1 H: fuel:98 right:1 left:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GG.HH.
+
+f(n):32 g(n):27 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:98 right:1 left:1 
+
+
+BBK.CC
+DDK.L.
+IJAAL.
+IJEEL.
+IJ.FF.
+GGHH..
+
+f(n):32 g(n):27 h(n):5 I: fuel:96 Down:1 Down:2 UP:1 J: fuel:96 Down:1 Down:2 UP:1 B: fuel:98 left:2 C: fuel:96 left:2 right:1 right:1 D: fuel:98 left:2 L: fuel:98 UP:1 Down:1 A: fuel:96 left:2 right:2 E: fuel:96 right:2 right:1 left:1 K: fuel:95 Down:1 UP:1 UP:2 UP:1 F: fuel:0 G: fuel:1 left:1 right:2 left:2 H: fuel:97 right:1 left:2 
+
+
+No Solution

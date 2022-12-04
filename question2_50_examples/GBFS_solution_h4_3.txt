@@ -1,0 +1,163 @@
+Initial board configuration
+
+AABBCC
+--D---
+XXD---
+----EE
+-OOO-F
+-----F
+
+Car Fuel Available: A:100, B:100, C:100, D:100, X:100, E:100, O:100, F:100, 
+---------------------------running:---------------------------
+Runtime: 0.4188804626464844 seconds
+Number of moves:  9
+Search path length: 235 states
+X: move:1, F: move:1, O: move:-1, D: move:-1, X: move:3, D: move:2, O: move:2, F: move:-2, E: move:-1, 
+------
+---------------------------solution:---------------------------
+AABBCC
+------
+--D-XX
+--DEEF
+--OOOF
+------
+
+g(n):1 h(n):0 f(n):1
+D: fuel:97 Down:2 UP:1 
+X: fuel:96 right:3 right:1 
+E: fuel:99 left:1 
+O: fuel:97 right:2 left:1 
+F: fuel:97 UP:2 Down:1 
+
+
+
+AABBCC
+------
+--DXX-
+--DEEF
+--OOOF
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:97 Down:2 UP:1 
+X: fuel:97 right:3 
+E: fuel:99 left:1 
+O: fuel:97 right:2 left:1 
+F: fuel:97 UP:2 Down:1 
+
+
+
+AABBCC
+------
+--DXXF
+--DEEF
+--OOO-
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:97 Down:2 UP:1 
+X: fuel:97 right:3 
+E: fuel:99 left:1 
+O: fuel:97 right:2 left:1 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+------
+--DXXF
+--DEEF
+---OOO
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:97 Down:2 UP:1 
+X: fuel:97 right:3 
+E: fuel:99 left:1 
+O: fuel:98 right:2 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+------
+---XXF
+--DEEF
+--DOOO
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:98 Down:2 
+X: fuel:97 right:3 
+E: fuel:99 left:1 
+O: fuel:98 right:2 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+------
+XX---F
+--DEEF
+--DOOO
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:98 Down:2 
+E: fuel:99 left:1 
+O: fuel:98 right:2 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+--D---
+XXD--F
+---EEF
+---OOO
+------
+
+g(n):1 h(n):1 f(n):2
+E: fuel:99 left:1 
+O: fuel:98 right:2 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+--D---
+XXD--F
+---EEF
+-OOO--
+------
+
+g(n):1 h(n):0 f(n):1
+E: fuel:99 left:1 
+F: fuel:98 UP:2 
+
+
+
+AABBCC
+--D---
+XXD---
+---EE-
+-OOO-F
+-----F
+
+g(n):1 h(n):0 f(n):1
+E: fuel:99 left:1 
+
+
+
+AABBCC
+--D---
+XXD---
+----EE
+-OOO-F
+-----F
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end

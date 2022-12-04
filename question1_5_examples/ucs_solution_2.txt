@@ -1,0 +1,187 @@
+Initial board configuration
+
+..I...
+BBI.K.
+GHAAKL
+GHDDKL
+G..JEE
+FF.J..
+
+Car Fuel Available: I:100, B:100, K:100, G:100, H:100, A:100, L:100, D:100, J:100, E:100, F:100, 
+---------------------------running:---------------------------
+Runtime: 20.654881715774536 seconds
+Number of moves:  10
+Search path length: 3586 states
+A: move:3, K: move:3, E: move:-2, D: move:-2, J: move:-4, D: move:2, L: move:-2, A: move:-1, H: move:1, K: move:-1, 
+------
+---------------------------solution:---------------------------
+..IJ.L
+BBIJ.L
+G...AA
+GHDDK.
+GHEEK.
+FF..K.
+
+g(n):1 h(n):10 f(n):11
+K: fuel:96 UP:1 Down:3 
+H: fuel:99 Down:1 
+A: fuel:96 left:1 right:3 
+L: fuel:98 UP:2 
+D: fuel:96 right:2 left:2 
+J: fuel:96 UP:4 
+E: fuel:98 left:2 
+
+
+
+..IJ.L
+BBIJ.L
+GAA...
+GHDDK.
+GHEEK.
+FF..K.
+
+g(n):1 h(n):9 f(n):10
+K: fuel:96 UP:1 Down:3 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+D: fuel:96 right:2 left:2 
+J: fuel:96 UP:4 
+E: fuel:98 left:2 
+
+
+
+..IJKL
+BBIJKL
+GAA.K.
+GHDD..
+GHEE..
+FF....
+
+g(n):1 h(n):8 f(n):9
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+D: fuel:96 right:2 left:2 
+J: fuel:96 UP:4 
+E: fuel:98 left:2 
+
+
+
+..IJKL
+BBIJKL
+GAA.K.
+GHDD..
+GH..EE
+FF....
+
+g(n):1 h(n):7 f(n):8
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+D: fuel:96 right:2 left:2 
+J: fuel:96 UP:4 
+
+
+
+..IJKL
+BBIJKL
+GAA.K.
+GH..DD
+GH..EE
+FF....
+
+g(n):1 h(n):6 f(n):7
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+D: fuel:98 right:2 
+J: fuel:96 UP:4 
+
+
+
+..I.KL
+BBI.KL
+GAA.K.
+GH..DD
+GH.JEE
+FF.J..
+
+g(n):1 h(n):5 f(n):6
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+D: fuel:98 right:2 
+
+
+
+..I.KL
+BBI.KL
+GAA.K.
+GHDD..
+GH.JEE
+FF.J..
+
+g(n):1 h(n):4 f(n):5
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+L: fuel:98 UP:2 
+
+
+
+..I.K.
+BBI.K.
+GAA.KL
+GHDD.L
+GH.JEE
+FF.J..
+
+g(n):1 h(n):3 f(n):4
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+A: fuel:99 left:1 
+
+
+
+..I.K.
+BBI.K.
+G.AAKL
+GHDD.L
+GH.JEE
+FF.J..
+
+g(n):1 h(n):2 f(n):3
+K: fuel:99 UP:1 
+H: fuel:99 Down:1 
+
+
+
+..I.K.
+BBI.K.
+GHAAKL
+GHDD.L
+G..JEE
+FF.J..
+
+g(n):1 h(n):1 f(n):2
+K: fuel:99 UP:1 
+
+
+
+..I...
+BBI.K.
+GHAAKL
+GHDDKL
+G..JEE
+FF.J..
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end

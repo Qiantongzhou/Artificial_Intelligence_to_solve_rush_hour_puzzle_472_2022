@@ -1,0 +1,171 @@
+Initial board configuration
+
+--AABB
+--CCDD
+XX--EF
+----EF
+----G-
+----G-
+
+Car Fuel Available: A:100, B:100, C:100, D:100, X:100, E:100, F:100, G:100, 
+---------------------------running:---------------------------
+Runtime: 0.895606279373169 seconds
+Number of moves:  9
+Search path length: 481 states
+X: move:4, E: move:-1, B: move:-2, A: move:-2, G: move:-1, F: move:1, E: move:-1, D: move:-2, C: move:-2, 
+------
+---------------------------solution:---------------------------
+AABBE-
+CCDDE-
+----XX
+----GF
+----GF
+------
+
+g(n):1 h(n):0 f(n):1
+A: fuel:98 left:2 
+B: fuel:98 left:2 
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+X: fuel:96 right:4 
+E: fuel:98 UP:1 UP:1 
+F: fuel:99 Down:1 
+G: fuel:99 UP:1 
+
+
+
+AABBE-
+CCDDE-
+XX----
+----GF
+----GF
+------
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 left:2 
+B: fuel:98 left:2 
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:98 UP:1 UP:1 
+F: fuel:99 Down:1 
+G: fuel:99 UP:1 
+
+
+
+AABB--
+CCDDE-
+XX--E-
+----GF
+----GF
+------
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 left:2 
+B: fuel:98 left:2 
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:99 UP:1 
+F: fuel:99 Down:1 
+G: fuel:99 UP:1 
+
+
+
+AA--BB
+CCDDE-
+XX--E-
+----GF
+----GF
+------
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 left:2 
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:99 UP:1 
+F: fuel:99 Down:1 
+G: fuel:99 UP:1 
+
+
+
+--AABB
+CCDDE-
+XX--E-
+----GF
+----GF
+------
+
+g(n):1 h(n):1 f(n):2
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:99 UP:1 
+F: fuel:99 Down:1 
+G: fuel:99 UP:1 
+
+
+
+--AABB
+CCDDE-
+XX--E-
+-----F
+----GF
+----G-
+
+g(n):1 h(n):2 f(n):3
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:99 UP:1 
+F: fuel:99 Down:1 
+
+
+
+--AABB
+CCDDE-
+XX--EF
+-----F
+----G-
+----G-
+
+g(n):1 h(n):2 f(n):3
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+E: fuel:99 UP:1 
+
+
+
+--AABB
+CCDD--
+XX--EF
+----EF
+----G-
+----G-
+
+g(n):1 h(n):2 f(n):3
+C: fuel:98 left:2 
+D: fuel:98 left:2 
+
+
+
+--AABB
+CC--DD
+XX--EF
+----EF
+----G-
+----G-
+
+g(n):1 h(n):2 f(n):3
+C: fuel:98 left:2 
+
+
+
+--AABB
+--CCDD
+XX--EF
+----EF
+----G-
+----G-
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end

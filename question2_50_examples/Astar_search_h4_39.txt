@@ -1,0 +1,6730 @@
+ABB-CC
+A---D-
+XX--D-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+XX--D-
+EE-OOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+-EEOOO
+FF----
+------
+
+f(n):1 g(n):1 h(n):0 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+-EEOOO
+--FF--
+------
+
+f(n):1 g(n):1 h(n):0 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+-EEOOO
+---FF-
+------
+
+f(n):1 g(n):1 h(n):0 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+XX--D-
+-EEOOO
+----FF
+------
+
+f(n):1 g(n):1 h(n):0 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+XX--D-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+XX--D-
+EE-OOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+-EEOOO
+FF----
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+-EEOOO
+--FF--
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+-EEOOO
+---FF-
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+XX--D-
+-EEOOO
+----FF
+------
+
+f(n):1 g(n):1 h(n):0 B: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:98 Down:2 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:97 Down:3 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):1 g(n):1 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EE-OOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+-EEOOO
+FF----
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+-EEOOO
+--FF--
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+-EEOOO
+---FF-
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+-XX-D-
+-EEOOO
+----FF
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:98 Down:2 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):1 g(n):1 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):1 g(n):1 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+--XXD-
+EE-OOO
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+-EEOOO
+FF----
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+-EEOOO
+--FF--
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+-EEOOO
+---FF-
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+--XXD-
+-EEOOO
+----FF
+------
+
+f(n):1 g(n):1 h(n):0 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+XX--D-
+EEOOO-
+-FF---
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+EE-OOO
+FF----
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+EE-OOO
+--FF--
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+EE-OOO
+---FF-
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+XX--D-
+EE-OOO
+----FF
+------
+
+f(n):1 g(n):1 h(n):0 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+-XX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+XX--D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+XX--D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+-XX-D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+--XXD-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+--XXD-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+XX--D-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+XX--D-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+--BBCC
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:1 left:1 
+
+
+--BBCC
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 
+
+
+--BBCC
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+--BBCC
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+--BBCC
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+--BBCC
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+--XXD-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+--XXD-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+XX--D-
+EEOOO-
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+EEOOO-
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+XX--D-
+EEOOO-
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+XX--D-
+EEOOO-
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+-XX-D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+--XXD-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+--XXD-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+XX--D-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+XX--D-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+--XXD-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+--XXD-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+XX--D-
+EEOOO-
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+EEOOO-
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+XX--D-
+EEOOO-
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+XX--D-
+EEOOO-
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 B: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+AXX-D-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 
+
+
+BB--CC
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BB--CC
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+-XX-D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 
+
+
+BB--CC
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:1 left:1 
+
+
+BB--CC
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+-XX-D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 
+
+
+BB--CC
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 
+
+
+BB--CC
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BB--CC
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+--BBCC
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+--BBCC
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EEOOO-
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EEOOO-
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EEOOO-
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+-XX-D-
+EEOOO-
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+A-XXD-
+-EEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+A-XXD-
+AEEOOO
+-FF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 
+
+
+BB--CC
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BB--CC
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+AEEOOO
+AFF---
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):3 g(n):3 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+-EEOOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BB--CC
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+--BBCC
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):3 g(n):3 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+A-BBCC
+A---D-
+--XXD-
+EEOOO-
+FF----
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+EEOOO-
+--FF--
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+A-BBCC
+A---D-
+--XXD-
+EEOOO-
+---FF-
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+A-BBCC
+A---D-
+--XXD-
+EEOOO-
+----FF
+------
+
+f(n):3 g(n):3 h(n):0 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+--XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+--XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+XX--D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+XX--D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+XX--D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+-XX-D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABB-CC
+A---D-
+--XXD-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABB-CC
+A---D-
+--XXD-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABB-CC
+A---D-
+--XXD-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB-CC-
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCCD-
+A---D-
+AXX---
+-EEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+AXX-D-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+AXX-D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+AXX-D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+AXX-D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+AXX---
+AEEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+AXX-D-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BBCC--
+----D-
+AXX-D-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+AXX-D-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+AXX-D-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+-XX---
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+XX--D-
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 
+
+
+BBCC--
+----D-
+-XX-D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+-XX-D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+-XX-D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+-XX---
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 
+
+
+BBCC--
+----D-
+XX--D-
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 
+
+
+BBCC--
+----D-
+-XX-D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BBCC--
+----D-
+-XX-D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+-XX-D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+-XX-D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+BB--CC
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB--CC
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+XX--D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+--BBCC
+----D-
+XX--D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+XX--D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+-XX-D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+-XX-D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+-XX-D-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB-CC-
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCCD-
+A---D-
+A-XX--
+-EEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+A-XXD-
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+A-XXD-
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+A---D-
+A-XXD-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+A---D-
+A-XXD-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+A---D-
+A-XXD-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+A-XX--
+AEEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+A-XXD-
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BBCC--
+----D-
+A-XXD-
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+A-XXD-
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+A-XXD-
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+--XX--
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+--XXD-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+--XX--
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BBCC--
+----D-
+--XXD-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+--XXD-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB--CC
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+--XXD-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+--XXD-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+--XXD-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+-XX-D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+ABBCC-
+A---D-
+--XXD-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+ABBCC-
+A---D-
+--XXD-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+ABBCC-
+A---D-
+--XXD-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+AXX-D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BB-CC
+----D-
+XX--D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+XX--D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+XX--D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+-XX-D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+-XX-D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+-XX-D-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+A---D-
+A-XXD-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+--XXD-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+--XXD-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+--XXD-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+A---D-
+A--XX-
+-EEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 
+
+
+BBCCD-
+A---D-
+A---XX
+-EEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:96 right:1 right:3 
+
+
+BBCCD-
+A---D-
+AXX---
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+AXX---
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+AXX---
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCCD-
+A---D-
+AXX---
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCCD-
+A---D-
+AXX---
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCC--
+A---D-
+AXX-D-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+AXX-D-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+AXX-D-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+AXX-D-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+AXX-D-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+AXX-D-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+A--XX-
+AEEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 
+
+
+BBCCD-
+----D-
+A---XX
+AEEOOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:96 right:1 right:3 
+
+
+BBCCD-
+----D-
+AXX---
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 left:1 
+
+
+BBCCD-
+----D-
+AXX---
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+AXX---
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+AXX---
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+XX----
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:1 left:1 
+
+
+BBCCD-
+----D-
+---XX-
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 
+
+
+BBCCD-
+----D-
+----XX
+AEEOOO
+AFF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:96 right:1 right:3 
+
+
+BBCCD-
+----D-
+-XX---
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+-XX---
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+-XX---
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCC--
+----D-
+XX--D-
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+XX--D-
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+XX--D-
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+XX----
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:1 left:1 
+
+
+BBCCD-
+----D-
+---XX-
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 
+
+
+BBCCD-
+----D-
+----XX
+-EEOOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:96 right:1 right:3 
+
+
+BBCCD-
+----D-
+-XX---
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 E: fuel:99 left:1 
+
+
+BBCCD-
+----D-
+-XX---
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+-XX---
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+-XX---
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:99 right:1 F: fuel:97 right:3 
+
+
+BBCC--
+----D-
+XX--D-
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 
+
+
+BBCC--
+----D-
+XX--D-
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+XX--D-
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+XX--D-
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:1 left:1 F: fuel:97 right:3 
+
+
+BBCC--
+----D-
+-XX-D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BBCC--
+----D-
+-XX-D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+-XX-D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+-XX-D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+XX--D-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB--CC
+----D-
+XX--D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+XX--D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+XX--D-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+-XX-D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+-XX-D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+-XX-D-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+--BBCC
+----D-
+XX--D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+--BBCC
+----D-
+XX--D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+--BBCC
+----D-
+XX--D-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+A---D-
+A-XX--
+EE-OOO
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+A-XX--
+-EEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+A-XX--
+-EEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCCD-
+A---D-
+A-XX--
+-EEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCCD-
+A---D-
+A-XX--
+-EEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCC--
+A---D-
+A-XXD-
+EEOOO-
+-FF---
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+EE-OOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+EE-OOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+A---D-
+A-XXD-
+EE-OOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+A---D-
+A-XXD-
+EE-OOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+A---D-
+A-XXD-
+EEOOO-
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+EEOOO-
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+A---D-
+A-XXD-
+EEOOO-
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+A---D-
+A-XXD-
+EEOOO-
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+A-XX--
+AEEOOO
+FF----
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 left:1 
+
+
+BBCCD-
+----D-
+A-XX--
+AEEOOO
+--FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+A-XX--
+AEEOOO
+---FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+A-XX--
+AEEOOO
+----FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:98 Down:2 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+--XX--
+AEEOOO
+A-FF--
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+--XX--
+AEEOOO
+A--FF-
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+--XX--
+AEEOOO
+A---FF
+------
+
+f(n):5 g(n):5 h(n):0 A: fuel:97 Down:3 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BB-CC-
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BB-CC-
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+----D-
+--XX--
+EE-OOO
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 E: fuel:99 left:1 
+
+
+BBCCD-
+----D-
+--XX--
+-EEOOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:99 right:1 
+
+
+BBCCD-
+----D-
+--XX--
+-EEOOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:98 right:2 
+
+
+BBCCD-
+----D-
+--XX--
+-EEOOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:98 right:2 F: fuel:97 right:3 
+
+
+BBCC--
+----D-
+--XXD-
+EEOOO-
+AFF---
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+BBCC--
+----D-
+--XXD-
+EE-OOO
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BBCC--
+----D-
+--XXD-
+EE-OOO
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BBCC--
+----D-
+--XXD-
+EE-OOO
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 C: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB--CC
+----D-
+--XXD-
+EEOOO-
+A-FF--
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB--CC
+----D-
+--XXD-
+EEOOO-
+A--FF-
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB--CC
+----D-
+--XXD-
+EEOOO-
+A---FF
+A-----
+
+f(n):5 g(n):5 h(n):0 A: fuel:96 Down:4 B: fuel:98 left:2 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EEOOO-
+FF----
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EEOOO-
+--FF--
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EEOOO-
+---FF-
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+AXX-D-
+EEOOO-
+----FF
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+XX--D-
+EEOOO-
+AFF---
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 
+
+
+-BBCC-
+----D-
+XX--D-
+EE-OOO
+A-FF--
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+XX--D-
+EE-OOO
+A--FF-
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+XX--D-
+EE-OOO
+A---FF
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+-XX-D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+-XX-D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+-XX-D-
+EEOOO-
+A---FF
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EEOOO-
+FF----
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EEOOO-
+--FF--
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EEOOO-
+---FF-
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+A---D-
+A-XXD-
+EEOOO-
+----FF
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BBCC-
+----D-
+--XXD-
+EEOOO-
+A-FF--
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BBCC-
+----D-
+--XXD-
+EEOOO-
+A--FF-
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BBCC-
+----D-
+--XXD-
+EEOOO-
+A---FF
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 C: fuel:99 left:1 X: fuel:98 right:2 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+-BB-CC
+----D-
+XX--D-
+EEOOO-
+A-FF--
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+-BB-CC
+----D-
+XX--D-
+EEOOO-
+A--FF-
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+-BB-CC
+----D-
+XX--D-
+EEOOO-
+A---FF
+A-----
+
+f(n):7 g(n):7 h(n):0 A: fuel:96 Down:4 B: fuel:99 left:1 X: fuel:98 right:1 left:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EEOOO-
+FF----
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 left:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EEOOO-
+--FF--
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:99 right:1 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EEOOO-
+---FF-
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:98 right:2 
+
+
+BB-CC-
+A---D-
+AXX-D-
+EEOOO-
+----FF
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:99 left:1 X: fuel:99 right:1 E: fuel:99 left:1 O: fuel:99 left:1 F: fuel:97 right:3 
+
+
+BBCCD-
+A---D-
+A--XX-
+EE-OOO
+-FF---
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 E: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+A--XX-
+-EEOOO
+FF----
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 F: fuel:99 left:1 
+
+
+BBCCD-
+A---D-
+A--XX-
+-EEOOO
+--FF--
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 F: fuel:99 right:1 
+
+
+BBCCD-
+A---D-
+A--XX-
+-EEOOO
+---FF-
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 F: fuel:98 right:2 
+
+
+BBCCD-
+A---D-
+A--XX-
+-EEOOO
+----FF
+------
+
+f(n):7 g(n):7 h(n):0 A: fuel:99 Down:1 B: fuel:98 left:2 C: fuel:98 left:2 D: fuel:99 UP:1 X: fuel:97 right:1 right:2 F: fuel:97 right:3 
+
+

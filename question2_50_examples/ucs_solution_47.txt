@@ -1,0 +1,99 @@
+Initial board configuration
+
+AOOOBB
+A----C
+XX---C
+-DDPPP
+----EE
+------
+
+Car Fuel Available: A:100, O:100, B:100, C:100, X:100, D:100, P:100, E:100, 
+---------------------------running:---------------------------
+Runtime: 1.5408828258514404 seconds
+Number of moves:  5
+Search path length: 619 states
+X: move:4, C: move:2, E: move:-1, P: move:-1, D: move:-1, 
+------
+---------------------------solution:---------------------------
+AOOOBB
+A-----
+----XX
+DDPPPC
+---EEC
+------
+
+g(n):1 h(n):5 f(n):6
+C: fuel:98 Down:2 
+X: fuel:96 right:4 
+D: fuel:99 left:1 
+P: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+AOOOBB
+A-----
+XX----
+DDPPPC
+---EEC
+------
+
+g(n):1 h(n):4 f(n):5
+C: fuel:98 Down:2 
+D: fuel:99 left:1 
+P: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+AOOOBB
+A----C
+XX---C
+DDPPP-
+---EE-
+------
+
+g(n):1 h(n):3 f(n):4
+D: fuel:99 left:1 
+P: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+AOOOBB
+A----C
+XX---C
+DDPPP-
+----EE
+------
+
+g(n):1 h(n):2 f(n):3
+D: fuel:99 left:1 
+P: fuel:99 left:1 
+
+
+
+AOOOBB
+A----C
+XX---C
+DD-PPP
+----EE
+------
+
+g(n):1 h(n):1 f(n):2
+D: fuel:99 left:1 
+
+
+
+AOOOBB
+A----C
+XX---C
+-DDPPP
+----EE
+------
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end

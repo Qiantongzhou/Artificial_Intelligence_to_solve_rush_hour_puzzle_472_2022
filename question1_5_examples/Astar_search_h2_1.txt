@@ -1,0 +1,90 @@
+BBIJ..
+..IJCC
+..IAA.
+GDDK.M
+GH.KLM
+GHFFL.
+
+f(n):2 g(n):1 h(n):1 M: fuel:99 Down:1 
+
+
+BBIJ..
+..IJCC
+..IAA.
+GDDK..
+GH.KLM
+GHFFLM
+
+f(n):2 g(n):1 h(n):1 M: fuel:98 Down:2 
+
+
+BBIJ..
+..IJCC
+G.IAAM
+GDDK.M
+GH.KL.
+.HFFL.
+
+f(n):2 g(n):1 h(n):1 G: fuel:99 UP:1 
+
+
+BBIJ..
+G.IJCC
+G.IAAM
+GDDK.M
+.H.KL.
+.HFFL.
+
+f(n):2 g(n):1 h(n):1 G: fuel:98 UP:2 
+
+
+BBIJ..
+..IJCC
+..IAAM
+GDDKLM
+GH.KL.
+GHFF..
+
+f(n):2 g(n):1 h(n):1 L: fuel:99 UP:1 
+
+
+BBIJ..
+..IJCC
+..I.AA
+GDDK.M
+GH.KLM
+GHFFL.
+
+f(n):1 g(n):1 h(n):0 A: fuel:99 right:1 M: fuel:99 Down:1 
+
+
+BBIJ..
+..IJCC
+G.IAA.
+GDDK.M
+GH.KLM
+.HFFL.
+
+f(n):1 g(n):1 h(n):0 M: fuel:99 Down:1 G: fuel:99 UP:1 
+
+
+BBIJ..
+G.IJCC
+G.IAA.
+GDDK.M
+.H.KLM
+.HFFL.
+
+f(n):1 g(n):1 h(n):0 M: fuel:99 Down:1 G: fuel:98 UP:2 
+
+
+BBIJ..
+..IJCC
+..IAA.
+GDDKLM
+GH.KLM
+GHFF..
+
+f(n):1 g(n):1 h(n):0 M: fuel:99 Down:1 L: fuel:99 UP:1 
+
+

@@ -1,0 +1,172 @@
+Initial board configuration
+
+AAB--O
+-CB--O
+-CXX-O
+-P----
+-P----
+-PDDEE
+
+Car Fuel Available: A:100, B:100, O:100, C:100, X:100, P:100, D:100, E:100, 
+---------------------------running:---------------------------
+Runtime: 1.060166597366333 seconds
+Number of moves:  9
+Search path length: 445 states
+X: move:1, O: move:3, E: move:-1, D: move:-1, P: move:-1, C: move:-1, A: move:2, B: move:1, X: move:1, 
+------
+---------------------------solution:---------------------------
+-CAA--
+-CB---
+-PB-XX
+-P---O
+-P---O
+-DDEEO
+
+g(n):1 h(n):0 f(n):1
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+O: fuel:97 Down:3 
+C: fuel:99 UP:1 
+X: fuel:98 right:1 right:1 
+P: fuel:99 UP:1 
+D: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+-CAA--
+-CB---
+-PBXX-
+-P---O
+-P---O
+-DDEEO
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+O: fuel:97 Down:3 
+C: fuel:99 UP:1 
+X: fuel:99 right:1 
+P: fuel:99 UP:1 
+D: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+-CAA-O
+-CB--O
+-PBXXO
+-P----
+-P----
+-DDEE-
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+C: fuel:99 UP:1 
+X: fuel:99 right:1 
+P: fuel:99 UP:1 
+D: fuel:99 left:1 
+E: fuel:99 left:1 
+
+
+
+-CAA-O
+-CB--O
+-PBXXO
+-P----
+-P----
+-DD-EE
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+C: fuel:99 UP:1 
+X: fuel:99 right:1 
+P: fuel:99 UP:1 
+D: fuel:99 left:1 
+
+
+
+-CAA-O
+-CB--O
+-PBXXO
+-P----
+-P----
+--DDEE
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+C: fuel:99 UP:1 
+X: fuel:99 right:1 
+P: fuel:99 UP:1 
+
+
+
+-CAA-O
+-CB--O
+--BXXO
+-P----
+-P----
+-PDDEE
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+C: fuel:99 UP:1 
+X: fuel:99 right:1 
+
+
+
+--AA-O
+-CB--O
+-CBXXO
+-P----
+-P----
+-PDDEE
+
+g(n):1 h(n):1 f(n):2
+A: fuel:98 right:2 
+B: fuel:99 Down:1 
+X: fuel:99 right:1 
+
+
+
+AA---O
+-CB--O
+-CBXXO
+-P----
+-P----
+-PDDEE
+
+g(n):1 h(n):1 f(n):2
+B: fuel:99 Down:1 
+X: fuel:99 right:1 
+
+
+
+AAB--O
+-CB--O
+-C-XXO
+-P----
+-P----
+-PDDEE
+
+g(n):1 h(n):1 f(n):2
+X: fuel:99 right:1 
+
+
+
+AAB--O
+-CB--O
+-CXX-O
+-P----
+-P----
+-PDDEE
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end

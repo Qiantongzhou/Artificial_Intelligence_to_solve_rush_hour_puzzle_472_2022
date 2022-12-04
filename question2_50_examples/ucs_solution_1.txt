@@ -1,0 +1,130 @@
+Initial board configuration
+
+---ABB
+-CCAD-
+-OXXD-
+-O----
+-OEEFF
+------
+
+Car Fuel Available: A:100, B:100, C:100, D:100, O:100, X:100, E:100, F:100, 
+---------------------------running:---------------------------
+Runtime: 0.5824432373046875 seconds
+Number of moves:  7
+Search path length: 240 states
+X: move:3, D: move:-1, A: move:-1, B: move:-3, A: move:1, X: move:-1, O: move:1, 
+------
+---------------------------solution:---------------------------
+-BBAD-
+-CCAD-
+----XX
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):7 f(n):8
+A: fuel:98 Down:1 UP:1 
+B: fuel:97 left:3 
+D: fuel:99 UP:1 
+O: fuel:99 Down:1 
+X: fuel:96 left:1 right:3 
+
+
+
+-BBAD-
+-CCAD-
+-XX---
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):6 f(n):7
+A: fuel:98 Down:1 UP:1 
+B: fuel:97 left:3 
+D: fuel:99 UP:1 
+O: fuel:99 Down:1 
+X: fuel:99 left:1 
+
+
+
+-BBA--
+-CCAD-
+-XX-D-
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):5 f(n):6
+A: fuel:98 Down:1 UP:1 
+B: fuel:97 left:3 
+O: fuel:99 Down:1 
+X: fuel:99 left:1 
+
+
+
+-BB---
+-CCAD-
+-XXAD-
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):4 f(n):5
+A: fuel:99 Down:1 
+B: fuel:97 left:3 
+O: fuel:99 Down:1 
+X: fuel:99 left:1 
+
+
+
+----BB
+-CCAD-
+-XXAD-
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):3 f(n):4
+A: fuel:99 Down:1 
+O: fuel:99 Down:1 
+X: fuel:99 left:1 
+
+
+
+---ABB
+-CCAD-
+-XX-D-
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):2 f(n):3
+O: fuel:99 Down:1 
+X: fuel:99 left:1 
+
+
+
+---ABB
+-CCAD-
+--XXD-
+-O----
+-OEEFF
+-O----
+
+g(n):1 h(n):1 f(n):2
+O: fuel:99 Down:1 
+
+
+
+---ABB
+-CCAD-
+-OXXD-
+-O----
+-OEEFF
+------
+
+g(n):0 h(n):0 f(n):0
+
+
+
+end
